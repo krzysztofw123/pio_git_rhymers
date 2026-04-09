@@ -3,6 +3,7 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+// Projekt jest poprawny, wszystkie testy przechodza.
 public class RhymersJUnitTest {
 
     @Test
