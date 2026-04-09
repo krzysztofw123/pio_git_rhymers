@@ -1,5 +1,8 @@
 package edu.kis.vh.nursery;
 
+/**
+ * Klasa bazowa realizująca podstawową logikę wyliczanki.
+ */
 public class DefaultCountingOutRhymer {
 
     private int[] numbers = new int[12];
